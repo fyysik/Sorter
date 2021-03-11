@@ -1,0 +1,20 @@
+SORTER - Sorting Algorithms visualisation
+HOWTO TEST PROJECT SORTER
+
+Run QTCreator, from FIle menu load project sorter.
+Build and run from Build menu.
+
+Choose alghoritm from Algorthms menu.
+Single on or All.
+
+Choose Run Selected from Run menu.
+Choose Stop from Run menu to interrupt sorting.
+
+What you see:
+Gray columns represent random array values.
+Running white column shows iterator moving.
+Green and Red columns shows items to swap or change place on some other manner.
+
+Status bar shows alghoritm name, program status and debug information (additional status).
+
+Enjoy!
